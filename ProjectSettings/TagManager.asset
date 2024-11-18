@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hotspot
+  - Descriptions
+  - Dr.Mohsen
+  - Entrance
+  - Inside Entrance
+  - Lift Area
+  - 6th Floor
+  - Down Lift
+  - Dr.Ibrahim
+  - Library
+  - Grey Carpet
+  - One Window Office
+  - Auditorium
+  - Admission Office
+  - Facilitation Desk
+  - LT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
